@@ -6,8 +6,7 @@ import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
 
-    private int a = 0;
-
+    private int a = 0; // agregando variable
 
 
     @Override
