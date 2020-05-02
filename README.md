@@ -1,2 +1,0 @@
-# MyApplication
-prueba en git
